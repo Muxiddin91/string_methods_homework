@@ -8,4 +8,4 @@ def main(s):
     """
     
     return s.isdigit()
-print(main('123'))
+print(main('123s'))
