@@ -7,5 +7,5 @@ def main(s):
         str: answer
     """
     
-    return s
-print(main('temirov muxiddin'.title ()))
+    return s.title ()
+print(main('temirov muxiddin'))
